@@ -1,0 +1,13 @@
+{
+  "name": "校园配送",
+  "owner": "任绪锋",
+  "note": "软时间窗，车速1.2",
+  "created_at": "2026-10-30 18:44:00",
+  "instances": [
+    "demo.txt"
+  ],
+  "scenes": [
+    "校园配送-软时间窗.json"
+  ],
+  "experiments": []
+}

@@ -1,0 +1,22 @@
+{
+ "id": "20261030-184634-5ed8",
+ "instance": "data/solomon/25/c101.txt",
+ "method": "improved",
+ "iters": 12,
+ "seed": 1,
+ "state": "queued",
+ "progress": 0.0,
+ "iter": 0,
+ "total": 12,
+ "best_cost": null,
+ "distance": null,
+ "vehicles": null,
+ "feasible": null,
+ "seconds": null,
+ "error": null,
+ "cancel_requested": false,
+ "created_at": "2026-10-30 18:46:34",
+ "started_at": null,
+ "finished_at": null,
+ "updated_at": "2026-10-30 18:46:34"
+}

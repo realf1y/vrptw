@@ -1,0 +1,12 @@
+{
+  "name": "校园配送-软时间窗",
+  "instance": "data/solomon/100/c101.txt",
+  "capacity": null,
+  "max_vehicles": null,
+  "speed": 1.0,
+  "tw_mode": "soft",
+  "lambda_tw": 25.0,
+  "priority": {},
+  "aco": {},
+  "note": "允许小幅迟到，按 λ 罚分；适合业务上“晚到可接受但要付出代价”的场景"
+}
