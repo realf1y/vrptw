@@ -1,0 +1,9 @@
+{
+  "_说明": "复制本文件为 mysql_config.json，把 password 改成你自己的密码",
+  "host": "127.0.0.1",
+  "port": 3306,
+  "user": "root",
+  "password": "在这里填你的 MySQL 密码",
+  "database": "vrptw",
+  "charset": "utf8mb4"
+}

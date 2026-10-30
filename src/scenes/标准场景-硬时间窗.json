@@ -1,0 +1,12 @@
+{
+  "name": "标准场景-硬时间窗",
+  "instance": "data/solomon/100/c101.txt",
+  "capacity": null,
+  "max_vehicles": null,
+  "speed": 1.0,
+  "tw_mode": "hard",
+  "lambda_tw": 10.0,
+  "priority": {},
+  "aco": {},
+  "note": "完全按算例原始约束：硬时间窗、车速 1.0"
+}
