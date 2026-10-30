@@ -1,0 +1,226 @@
+{
+ "C101": {
+  "distance": 828.94,
+  "vehicles": 10
+ },
+ "C102": {
+  "distance": 828.94,
+  "vehicles": 10
+ },
+ "C103": {
+  "distance": 828.06,
+  "vehicles": 10
+ },
+ "C104": {
+  "distance": 824.78,
+  "vehicles": 10
+ },
+ "C105": {
+  "distance": 828.94,
+  "vehicles": 10
+ },
+ "C106": {
+  "distance": 828.94,
+  "vehicles": 10
+ },
+ "C107": {
+  "distance": 828.94,
+  "vehicles": 10
+ },
+ "C108": {
+  "distance": 828.94,
+  "vehicles": 10
+ },
+ "C109": {
+  "distance": 828.94,
+  "vehicles": 10
+ },
+ "C201": {
+  "distance": 591.56,
+  "vehicles": 3
+ },
+ "C202": {
+  "distance": 591.56,
+  "vehicles": 3
+ },
+ "C203": {
+  "distance": 591.17,
+  "vehicles": 3
+ },
+ "C204": {
+  "distance": 590.6,
+  "vehicles": 3
+ },
+ "C205": {
+  "distance": 588.88,
+  "vehicles": 3
+ },
+ "C206": {
+  "distance": 588.49,
+  "vehicles": 3
+ },
+ "C207": {
+  "distance": 588.29,
+  "vehicles": 3
+ },
+ "C208": {
+  "distance": 588.32,
+  "vehicles": 3
+ },
+ "R101": {
+  "distance": 1650.8,
+  "vehicles": 19
+ },
+ "R102": {
+  "distance": 1486.12,
+  "vehicles": 17
+ },
+ "R103": {
+  "distance": 1292.68,
+  "vehicles": 13
+ },
+ "R104": {
+  "distance": 1007.31,
+  "vehicles": 9
+ },
+ "R105": {
+  "distance": 1377.11,
+  "vehicles": 14
+ },
+ "R106": {
+  "distance": 1252.03,
+  "vehicles": 12
+ },
+ "R107": {
+  "distance": 1104.66,
+  "vehicles": 10
+ },
+ "R108": {
+  "distance": 960.88,
+  "vehicles": 9
+ },
+ "R109": {
+  "distance": 1194.73,
+  "vehicles": 11
+ },
+ "R110": {
+  "distance": 1118.84,
+  "vehicles": 10
+ },
+ "R111": {
+  "distance": 1096.72,
+  "vehicles": 10
+ },
+ "R112": {
+  "distance": 982.14,
+  "vehicles": 9
+ },
+ "R201": {
+  "distance": 1252.37,
+  "vehicles": 4
+ },
+ "R202": {
+  "distance": 1191.7,
+  "vehicles": 3
+ },
+ "R203": {
+  "distance": 939.5,
+  "vehicles": 3
+ },
+ "R204": {
+  "distance": 825.52,
+  "vehicles": 2
+ },
+ "R205": {
+  "distance": 994.43,
+  "vehicles": 3
+ },
+ "R206": {
+  "distance": 906.14,
+  "vehicles": 3
+ },
+ "R207": {
+  "distance": 890.61,
+  "vehicles": 2
+ },
+ "R208": {
+  "distance": 726.82,
+  "vehicles": 2
+ },
+ "R209": {
+  "distance": 909.16,
+  "vehicles": 3
+ },
+ "R210": {
+  "distance": 939.37,
+  "vehicles": 3
+ },
+ "R211": {
+  "distance": 885.71,
+  "vehicles": 2
+ },
+ "RC101": {
+  "distance": 1696.95,
+  "vehicles": 14
+ },
+ "RC102": {
+  "distance": 1554.75,
+  "vehicles": 12
+ },
+ "RC103": {
+  "distance": 1261.67,
+  "vehicles": 11
+ },
+ "RC104": {
+  "distance": 1135.48,
+  "vehicles": 10
+ },
+ "RC105": {
+  "distance": 1629.44,
+  "vehicles": 13
+ },
+ "RC106": {
+  "distance": 1424.73,
+  "vehicles": 11
+ },
+ "RC107": {
+  "distance": 1230.48,
+  "vehicles": 11
+ },
+ "RC108": {
+  "distance": 1139.82,
+  "vehicles": 10
+ },
+ "RC201": {
+  "distance": 1406.94,
+  "vehicles": 4
+ },
+ "RC202": {
+  "distance": 1365.65,
+  "vehicles": 3
+ },
+ "RC203": {
+  "distance": 1049.62,
+  "vehicles": 3
+ },
+ "RC204": {
+  "distance": 798.46,
+  "vehicles": 3
+ },
+ "RC205": {
+  "distance": 1297.65,
+  "vehicles": 4
+ },
+ "RC206": {
+  "distance": 1146.32,
+  "vehicles": 3
+ },
+ "RC207": {
+  "distance": 1061.14,
+  "vehicles": 3
+ },
+ "RC208": {
+  "distance": 828.14,
+  "vehicles": 3
+ }
+}
